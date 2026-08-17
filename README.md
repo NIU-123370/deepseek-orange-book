@@ -1,4 +1,4 @@
-# DeepSeek 橙皮书
+# DeepSeek-Harness 橙皮书
 
 > 《DeepSeek Harness：从开机到拆开》简明导读  
 > 原书作者：花叔｜文档版本：v260814｜发布于 2026-08-14
